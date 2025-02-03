@@ -94,7 +94,7 @@ Welcome to my GitHub profile! I’m a passionate and detail-oriented **Senior QA
 
 ## 📚 Certifications
 - ISTQB Certified Tester
-- AWS Certified Solutions Architect – Associate
+- AWS Certified 
 
 ---
 
