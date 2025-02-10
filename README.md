@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate and detail-oriented **Senior QA
 ## 🛠️ Technical Skills
 
 ### **Automation Tools & Frameworks**
-- Selenium WebDriver, Cypress, Playwright, Appium
+- Selenium WebDriver, Cypress, Playwright, Appium, Patrol, Maestro
 - TestNG, JUnit, pytest, Mocha
 - RestAssured, Postman, SoapUI for API Testing
 
@@ -90,12 +90,15 @@ Welcome to my GitHub profile! I’m a passionate and detail-oriented **Senior QA
    - **Tech Stack**: k6, Grafana, Docker, Kubernetes
    - **Impact**: Ensured scalability of microservices under high load, achieving **99.9% uptime**.
 
----
+### 10. **Flutter Web & API Testing**
+   - **Description**: Developed automated test frameworks for web and API testing using Patrol.
+   - **Tech Stack**: Flutter, Dart, Patrol, Postman, REST Assured, Firebase Test Lab, GitHub Actions
+   - **Impact**: Reduced manual regression testing by 50% and increased test efficiency.
 
-## 📚 Certifications
-- ISTQB Certified Tester
-- AWS Certified 
-
+### 10. **Maestro-Based Mobile Testing for Flutter Apps**
+   - **Description**: Implemented an automated UI testing framework for Flutter apps using Maestro.
+   - **Tech Stack**:  Maestro, Firebase Test Lab, GitHub Actions
+   - **Impact**:  Improved Flutter mobile UI testing, ensuring smooth user experiences across different devices.
 ---
 
 ## 📫 Let’s Connect!
