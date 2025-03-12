@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate and detail-oriented **Senior QA
 - RestAssured, Postman, SoapUI for API Testing
 
 ### **Programming Languages**
-- Java, Python, JavaScript, TypeScript
+- C#, Java, Python, JavaScript, TypeScript
 
 ### **CI/CD & DevOps**
 - Jenkins, GitLab CI, GitHub Actions, CircleCI
